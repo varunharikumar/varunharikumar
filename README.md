@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 class="title">I'm a <label class="wow slideInLeft" data-wow-duration="2s">Passionate</label> <span class="wow slideInDown" data-wow-duration="2s">Web Designer & Developer</span></h1> 
+<h1 style="font-size="22px !important">I'm a <label class="wow slideInLeft" data-wow-duration="2s">Passionate</label> <span class="wow slideInDown" data-wow-duration="2s">Web Designer & Developer</span></h1> 
 
 <!--
 **varunharikumar/varunharikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
