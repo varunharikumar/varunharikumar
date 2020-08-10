@@ -21,7 +21,7 @@ developed and launched 300+ websites according to client requirements in an
 affordable budget and without skipping timelines. I have collaborated with clients from
 different parts of India, United Arab Emirates, Germany, Canada, and the USA.
 
-If you want to work or collaborate with me, kindly call to 📞 +1 647 685 5716 or send me
+If you want to work or collaborate with me, kindly call to ** 📞 +1 647 685 5716 ** or send me
 an email at 📧 hello@varunharikumar.com
 
 
