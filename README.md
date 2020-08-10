@@ -1,4 +1,4 @@
-<br><br>
+<br>
 ![Varun Harikumar Web Designer and Dveloper](https://raw.githubusercontent.com/varunharikumar/varunharikumar/master/assets/varun-harikumar-freelance-webdesigner-trivandrum-background.jpg "Varun Harikumar Web Designer and Dveloper")
 
 # Hello Folks 🤝,<br> I'm [Varun Harikumar](https://varunharikumar.com), a Passionate Web Designer & Developer<br>
