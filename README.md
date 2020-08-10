@@ -1,6 +1,6 @@
 # Hello Folks,<br> I'm [Varun Harikumar](https://varunharikumar.com) 🤝
 
-## I’m a professional with an <font color='#7abd0d'><b>EYE 4 DETAIL</b></font> and a <font color='#029ef1'><b>DRIVE 4 QUALITY</b></font>.
+### I’m a professional with an <font color='#7abd0d'><b>EYE 4 DETAIL</b></font> and a <font color='#029ef1'><b>DRIVE 4 QUALITY</b></font>.
 
 
 As a hardworking individual with excellent interpersonal skills and commitment, I am pleased
