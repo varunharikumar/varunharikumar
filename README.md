@@ -1,3 +1,5 @@
+![Varun Harikumar Web Designer and Dveloper](https://raw.githubusercontent.com/varunharikumar/varunharikumar/master/assets/varun-harikumar-freelance-webdesigner-trivandrum-background.jpg "Varun Harikumar Web Designer and Dveloper")
+
 # Hello Folks 🤝,<br> I'm [Varun Harikumar](https://varunharikumar.com), a Passionate Web Designer & Developer<br>
 [![Twitter: varun_hari](https://img.shields.io/twitter/follow/varun_hari?color=029ef1&label=Follow%20me%20%40%20Varun%20Harikumar&logo=twitter&style=for-the-badge)](https://twitter.com/varun_hari) [![Linkedin: varunharikumar](https://img.shields.io/badge/-varunharikumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunharikumar/)](https://www.linkedin.com/in/varunharikumar/) [![website](https://img.shields.io/badge/-www.varunharikumar.com-7abd0d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varunharikumar.com)
 
