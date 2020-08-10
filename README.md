@@ -24,10 +24,15 @@ different parts of India, United Arab Emirates, Germany, Canada, and the USA.
 
 If you want to work or collaborate with me, kindly call to **📞+1 647 685 5716** or send me
 an email at **📧hello@varunharikumar.com**
-<br>
+<br><br>
 
 # This is not just my job, It is my passion.
 
 ![Varun Harikumar Web Designer and Developer](https://raw.githubusercontent.com/varunharikumar/varunharikumar/master/assets/varun-harikumar-technologies_03.png "Varun Harikumar Web Designer and Developer")
+
+<br><br>
+<a href="https://github.com/varunharikumar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunharikumar&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 
