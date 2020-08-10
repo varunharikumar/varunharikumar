@@ -26,6 +26,4 @@ an email at **📧hello@varunharikumar.com**
 <br><br>
 
 
-[![Twitter: varun_hari](https://img.shields.io/twitter/follow/varun_hari?color=029ef1&label=Follow%20me%20%40%20Varun%20Harikumar&logo=twitter&style=for-the-badge)](https://twitter.com/varun_hari)
-[![Linkedin: varunharikumar](https://img.shields.io/badge/-varunharikumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunharikumar/)](https://www.linkedin.com/in/varunharikumar/)
-[![website](https://img.shields.io/badge/myshowcase-www.varunharikumar.com-7abd0d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varunharikumar.com)
+[![Twitter: varun_hari](https://img.shields.io/twitter/follow/varun_hari?color=029ef1&label=Follow%20me%20%40%20Varun%20Harikumar&logo=twitter&style=for-the-badge)](https://twitter.com/varun_hari) [![Linkedin: varunharikumar](https://img.shields.io/badge/-varunharikumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunharikumar/)](https://www.linkedin.com/in/varunharikumar/) [![website](https://img.shields.io/badge/showcase-www.varunharikumar.com-7abd0d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varunharikumar.com)
