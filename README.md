@@ -2,6 +2,8 @@
 
 ### I’m a professional with an <font color='#7abd0d'><b>EYE 4 DETAIL</b></font> and a <font color='#029ef1'><b>DRIVE 4 QUALITY</b></font>.
 
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
 
 As a hardworking individual with excellent interpersonal skills and commitment, I am pleased
 to introduce myself before you as a Web Designer & Developer. 
