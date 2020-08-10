@@ -1,3 +1,5 @@
+![Philadelphia's Magic Gardens. This place was so cool!](../assets/varun-harikumar-freelance-webdesigner-trivandrum-background.jpg "Philadelphia's Magic Gardens")
+
 # Hello Folks 🤝,<br> I'm [Varun Harikumar](https://varunharikumar.com), a Passionate Web Designer & Developer<br>
 [![Twitter: varun_hari](https://img.shields.io/twitter/follow/varun_hari?color=029ef1&label=Follow%20me%20%40%20Varun%20Harikumar&logo=twitter&style=for-the-badge)](https://twitter.com/varun_hari) [![Linkedin: varunharikumar](https://img.shields.io/badge/-varunharikumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunharikumar/)](https://www.linkedin.com/in/varunharikumar/) [![website](https://img.shields.io/badge/-www.varunharikumar.com-7abd0d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varunharikumar.com)
 
@@ -28,10 +30,5 @@ an email at **📧hello@varunharikumar.com**
 
 # This is not just my job, It is my passion.
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">    
+
 
