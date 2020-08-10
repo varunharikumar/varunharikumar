@@ -32,8 +32,8 @@ an email at **📧hello@varunharikumar.com**
 
 <br><br>
 <a href="https://github.com/varunharikumar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunharikumar&show_icons=true&hide_border=true&line_height=27" alt="Varun Harikumar github stats"/></a><a href="https://github.com/varunharikumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunharikumar&hide_border=true&line_height=27" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunharikumar&show_icons=true&hide_border=false&line_height=27" alt="Varun Harikumar github stats"/></a><a href="https://github.com/varunharikumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunharikumar&hide_border=false&line_height=27" />
 </a>
 
 
