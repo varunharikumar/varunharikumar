@@ -24,7 +24,7 @@ different parts of India, United Arab Emirates, Germany, Canada, and the USA.
 
 If you want to work or collaborate with me, kindly call to **📞+1 647 685 5716** or send me
 an email at **📧hello@varunharikumar.com**
-<br><br>
+<br>
 
 # This is not just my job, It is my passion.
 
